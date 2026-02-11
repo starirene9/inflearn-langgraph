@@ -6,3 +6,5 @@
 __pycache__/
 google/
 .DS_Store
+.cursor/
+real_estate_tax_chroma/
